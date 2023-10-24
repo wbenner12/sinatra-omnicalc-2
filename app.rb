@@ -43,6 +43,7 @@ get("/wizard_multiply") do
   erb(:mult_result)
 end
 
+
 get("/divide") do
   erb(:div_form)
 end
